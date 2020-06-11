@@ -10,3 +10,5 @@
 Serão disponibilizados aqui projetos práticos do mundo real relacionados a ciencia de dados. Fiquem a vontade para explorar e contribuir.
 
 **Giselly Damasceno** http://gisellydamasceno.ds
+
+## Notebooks:
