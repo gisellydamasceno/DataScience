@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="/img/python-logo.svg">
+    <a href="https://github.com/gisellydamasceno/DataScience/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+</p>
 
 **Projetos**
 ---
